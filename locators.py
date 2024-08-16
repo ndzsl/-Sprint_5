@@ -1,5 +1,3 @@
-# locators.py
-
 # Регистрация
 REGISTER_NAME_FIELD = 'input[name="name"]'  # Поле ввода имени
 REGISTER_EMAIL_FIELD = 'input[name="email"]'  # Поле ввода email
@@ -26,4 +24,5 @@ FILLINGS_SECTION = 'a[href="#fillings"]'  # Раздел «Начинки»
 
 # Выход
 LOGOUT_BUTTON = 'button[data-testid="logout"]'  # Кнопка «Выйти» в личном кабинете
+
 
